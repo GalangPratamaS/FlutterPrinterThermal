@@ -1,16 +1,22 @@
-# test_print
+# Flutter Printer Thermal Bluetooth
 
-A new Flutter project.
+Project testing print dengan printer thermal bluetooth,
+menggunakan flutter dan dengan library dari  [blue_thermal_printer](https://pub.dev/packages/blue_thermal_printer/install)  
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone repository dengan mengetik 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+```http
+  git clone https://github.com/GalangPratamaS/FlutterPrinterThermal.git 
+```
+
+
+
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/GalangPratamaS/FlutterPrinterThermal/main/assets/screenshoot/screenshoot.jpeg)
+
